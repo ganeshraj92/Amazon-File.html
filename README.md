@@ -1,2 +1,1 @@
-Amazon.html
-https://amazon-rauni.netlify.app/
+Amazon.html  https://amazon-rauni.netlify.app/
